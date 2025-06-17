@@ -56,7 +56,12 @@ print(me.current_focus())
 
 
 
+## 🏆 Featured Projects
 
+- **[Project Name 1](https://github.com/[your-username]/[repo-name])**: [Brief description].  
+  ![Project Demo](https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif)
+- **[Project Name 2](https://github.com/[your-username]/[repo-name])**: [Brief description].  
+  <img src="https://via.placeholder.com/300x150" alt="Project Screenshot" />
 
 
 👥 Connect with Me
