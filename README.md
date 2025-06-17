@@ -65,15 +65,6 @@ print(me.current_focus())
 🧩 Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,django,react,html,css,js,bootstrap,git,github,postman,vscode,sqlite,mysql" /> </p>
 
-### ⏱️ WakaTime Coding Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=vishnuwebz&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://wakatime.com/share/@vishnuwebz/your-chart-id.svg" />
-</p>
-
+### ⏱️ WakaTime Coding Stats coming soon...
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364"/> </p>
