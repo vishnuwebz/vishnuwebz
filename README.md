@@ -29,7 +29,7 @@ class Vishnu:
 
 me = Vishnu()
 print(me.current_focus())
-```
+
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vishnuwebz&show_icons=true&theme=tokyonight&count_private=true&hide=prs&hide_border=true" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=vishnuwebz&theme=tokyonight&hide_border=true" width="48%"/> </p>
 
@@ -61,4 +61,4 @@ print(me.current_focus())
 🧩 Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,django,react,html,css,js,bootstrap,git,github,postman,vscode,sqlite,mysql" /> </p>
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364"/> </p> ```
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364"/> </p>
