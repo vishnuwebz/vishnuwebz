@@ -32,3 +32,6 @@ print(me.current_focus())
 
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vishnuwebz&show_icons=true&theme=tokyonight&count_private=true&hide=prs&hide_border=true" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=vishnuwebz&theme=tokyonight&hide_border=true" width="48%"/> </p>
+
+🔥 Contribution Graph
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnuwebz&theme=tokyo-night&hide_border=true"/> </p>
