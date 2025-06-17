@@ -7,12 +7,15 @@
 <h2 align="center">Hi 👋, I'm Vishnu G</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF6F00&center=true&vCenter=true&width=600&lines=Python+Full+Stack+Developer;131+Mini+Projects+Completed;405+Exercises+Cracked;Open+Source+Contributor;React+%7C+Django+%7C+REST+API+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF6F00&center=true&vCenter=true&width=600&lines=Python+Full+Stack+Developer;150+Mini+Projects+Completed;500+Exercises+Cracked;Open+Source+Contributor;React+%7C+Django+%7C+REST+API+Learner" />
 </p>
 
 ---
 
 ### 🚀 About Me
+
+<details>
+  <summary>🧠 My Code-as-About Section (Click to expand)</summary>
 
 ```python
 class Vishnu:
@@ -29,7 +32,8 @@ class Vishnu:
 
 me = Vishnu()
 print(me.current_focus())
-```
+</details> ```
+
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vishnuwebz&show_icons=true&theme=tokyonight&count_private=true&hide=prs&hide_border=true" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=vishnuwebz&theme=tokyonight&hide_border=true" width="48%"/> </p>
 
