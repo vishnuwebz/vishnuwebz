@@ -46,9 +46,9 @@ print(me.current_focus())
 🧠 Achievements
 ✅ Completed 100 Days of Code
 
-🚀 Built 131+ Mini Projects
+🚀 Built 150+ Mini Projects
 
-📚 Solved 405+ Python Exercises
+📚 Solved 500+ Python Exercises
 
 💻 Self-taught from zero to full stack
 
