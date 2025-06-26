@@ -73,4 +73,10 @@ print(me.current_focus())
 
 ### ⏱️ WakaTime Coding Stats coming soon...
 
+<br>  <!-- Single space -->
+
+#### 🏆 LeetCode Stats
+
+[![LeetCode Stats](https://leetcode.card.workers.dev/?username=vishnuwebz&theme=dark)](https://leetcode.com/u/vishnuwebz/)
+
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364"/> </p>
