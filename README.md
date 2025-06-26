@@ -98,7 +98,7 @@ print(me.current_focus())
 ### ⌨️ Typing Stats Snapshot
 
 <p align="center">
-  <img src="https://github.com/vishnuwebz/vishnuwebz/blob/main/monkeytype_vishnuwebz_typingstats.png" width="500"/>
+  <img src="https://github.com/vishnuwebz/vishnuwebz/blob/main/monkeytype_vishnuwebz_typingstats-2.png" width="500"/>
 </p>
 
 ### ⌨️ Typing Speed (Monkeytype)
