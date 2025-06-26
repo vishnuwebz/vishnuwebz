@@ -79,4 +79,18 @@ print(me.current_focus())
 
 [![LeetCode Stats](https://leetcode.card.workers.dev/?username=vishnuwebz&theme=dark)](https://leetcode.com/u/vishnuwebz/)
 
+<br>  <!-- Single space -->
+
+### ⌨️ Verified Typing Skills
+<table>
+  <tr>
+    <td><a href="https://www.edclub.com/sportal/badges.html"><img src="https://static.typingclub.com/m/badges/TheHeavyweight/Active/10TheHeavyweight.svg" width="150"></a></td>
+    <td><a href="https://www.edclub.com/sportal/badges.html"><img src="https://static.typingclub.com/m/badges/WeekendHero/Active/WeekendHero.svg" width="150"></a></td>
+    <td><a href="https://www.edclub.com/sportal/badges.html"><img src="https://static.typingclub.com/m/badges/DayStreak/Active/14DayStreak.svg" width="150"></a></td>
+    <td><a href="https://www.edclub.com/sportal/badges.html"><img src="https://static.typingclub.com/m/badges/FieryTypist/Active/50FieryTypist.svg" width="150"></a></td>
+    <td><a href="https://www.edclub.com/sportal/badges.html"><img src="https://static.typingclub.com/m/badges/KeyboardCrusher/Active/30KeyboardCrusher.svg" width="150"></a></td>
+    <td><a href="https://www.edclub.com/sportal/badges.html"><img src="https://static.typingclub.com/m/badges/TheMarathoner/Active/30Marathoner.svg" width="150"></a></td>
+  </tr>
+</table>
+
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364"/> </p>
