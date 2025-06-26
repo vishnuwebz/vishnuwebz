@@ -100,4 +100,13 @@ print(me.current_focus())
 <p align="center">
   <img src="https://github.com/vishnuwebz/vishnuwebz/blob/main/monkeytype_vishnuwebz_typingstats.png" width="500"/>
 </p>
+
+### ⌨️ Typing Speed (Monkeytype)
+
+<p align="center">
+  <a href="https://monkeytype.com/profile/vishnuwebz" target="_blank">
+    <img src="https://img.shields.io/badge/Monkeytype-Visit%20My%20Profile-orange?style=for-the-badge&logo=monkeytype&logoColor=white" />
+  </a>
+</p>
+
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364"/> </p>
