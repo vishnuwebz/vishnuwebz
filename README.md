@@ -33,6 +33,10 @@ class Vishnu:
 me = Vishnu()
 print(me.current_focus())
 ```
+😊 Intro
+<p align="center">
+  <img src="https://github.com/vishnuwebz/vishnuwebz/blob/main/vishnuwebz_intro_gif.gif" width="1600" alt="My coding workflow"/>
+</p>
 
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vishnuwebz&show_icons=true&theme=tokyonight&count_private=true&hide=prs&hide_border=true" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=vishnuwebz&theme=tokyonight&hide_border=true" width="48%"/> </p>
