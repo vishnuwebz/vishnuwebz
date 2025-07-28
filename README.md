@@ -7,7 +7,7 @@
 <h2 align="center">Hi 👋, I'm Vishnu G</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF6F00&center=true&vCenter=true&width=600&lines=Python+Full+Stack+Developer;150++Mini+Projects+Completed;500++Exercises+Cracked;Open+Source+Contributor;React+%7C+Django+%7C+REST+API+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF6F00&center=true&vCenter=true&width=600&lines=Python+Full+Stack+Developer;200++Mini+Projects+Completed;500++Exercises+Cracked;Open+Source+Contributor;React+%7C+Django+%7C+REST+API+Learner" />
 </p>
 
 ---
