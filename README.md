@@ -14,7 +14,8 @@
 
 ### 🚀 About Me
 
-
+<details>
+  <summary>🧠 My Code-as-About Section (Click to expand)</summary>
 
 ```python
 class Vishnu:
